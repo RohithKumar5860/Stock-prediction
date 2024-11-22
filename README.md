@@ -18,3 +18,5 @@ Evaluation metrics like mean squared error (MSE) or mean absolute error (MAE) he
 
 Python libraries like Pandas, NumPy, Scikit-Learn, and TensorFlow simplify model development. However, stock prediction remains challenging due to market volatility and non-linear behavior, which makes achieving high accuracy difficult.
 </p>
+<link>
+ href ""9a8ff-28c7c
